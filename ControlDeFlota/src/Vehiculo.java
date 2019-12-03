@@ -2,7 +2,7 @@ public class Vehiculo {
 	private String matricula;
 	private String fabricante;
 	private String modelo;
-
+//Autor: Alberto Munoz Garcia
 	public Vehiculo(String matricula, String fabricante, String modelo) {
 		this.matricula = matricula;
 		this.fabricante = fabricante;
